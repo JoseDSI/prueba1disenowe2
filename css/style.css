@@ -1,0 +1,80 @@
+:root{
+	--color-textohero:#fff;
+}
+
+
+
+body{
+	color: #888;
+}
+
+
+
+header{
+	background-color: #191919;
+	padding: 20px 0;
+}
+
+
+
+#hero{
+	background-image: url("../img/bg-hero.jpg");
+	background-position: top;
+	color: var(--color-textohero);
+	padding-top: 70px;
+	padding-bottom: 100px;
+}
+#hero h1{
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+
+.btn{
+	margin-top: 40px;
+	padding: 10px 20px;
+}
+
+
+
+#welcome{
+	margin-top: 90px;
+	margin-bottom: 90px;
+}
+#welcome h2{
+	margin-bottom: 30px;
+	
+}
+
+#welcome i{
+	width: 10px;
+	height: 10px;
+	line-height: 10px;
+	border-radius: 100%;
+	border: 1px solid #55bc69;
+	font-size: 60px;
+	margin: 20px 0;
+}
+.introwelcome{
+	margin: 70px 0;
+	text-align: center;
+}
+
+
+footer{
+	background-color: #191919;
+	color: #6c6c6c;
+	padding: 20px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
